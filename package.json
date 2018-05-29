@@ -1,0 +1,40 @@
+{
+  "name": "annie",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Viper702 - erick.charette@gmail.com",
+  "description": "Erick Drake's go to cyber-girl.",
+  "dependencies": {
+    "hubot": "^2.19.0",
+    "hubot-diagnostics": "0.0.2",
+    "hubot-discord": "^2.1.0",
+    "hubot-epichal": "^0.1.2",
+    "hubot-google-images": "^0.2.7",
+    "hubot-google-translate": "^0.2.1",
+    "hubot-help": "^0.2.2",
+    "hubot-heroku-keepalive": "^1.0.3",
+    "hubot-maps": "0.0.3",
+    "hubot-pugme": "^0.1.1",
+    "hubot-redis-brain": "0.0.4",
+    "hubot-rules": "^0.1.2",
+    "hubot-scripts": "^2.17.2",
+    "hubot-shipit": "^0.2.1"
+  },
+   "devDependencies": {
+  },
+  "peerDependencies": {
+    "bufferutil": "^3.0.5",
+    "erlpack": "github:discordapp/erlpack",
+    "opusscript": "0.0.6",
+    "node-opus@^0.2.7",
+    "libsodium-wrappers@^0.7.3",
+    "uws@^9.14.0",
+    "coffee-script@^1.12.6",
+    "sodium": "^2.0.3"
+  },
+  "optionalDependencies": {
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
