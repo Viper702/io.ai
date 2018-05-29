@@ -21,16 +21,7 @@
     "hubot-shipit": "^0.2.1",
     "opusscript": "0.0.6"
   },
-  "devDependencies": {
-    "bufferutil": "^3.0.5",
-    "coffee-script": "^1.12.7",
-    "erlpack": "^0.1.2",
-    "install-peers": "^1.0.2",
-    "libsodium-wrappers": "^0.7.3",
-    "node-opus": "^0.3.0",
-    "sodium": "^2.0.3",
-    "uws": "^10.148.0"
-  },
+  "devDependencies": {},
   "peerDependencies": {
     "bufferutil": "^3.0.5",
     "erlpack": "github:discordapp/erlpack",
