@@ -1,0 +1,29 @@
+{
+  "name": "io",
+  "version": "3.0.0",
+  "private": true,
+  "author": "Viper702 - erick.charette@gmail.com",
+  "description": "Erick Drake's go to cyber-girl.",
+  "dependencies": {
+    "coffee-script": "^1.12.7",
+    "debug": "^3.1.0",
+    "erlpack": "github:discordapp/erlpack",
+    "express": "^4.16.3",
+    "hubot": "^2.19.0",
+    "hubot-google-images": "^0.2.7",
+    "hubot-google-translate": "^0.2.1",
+    "hubot-help": "^0.2.2",
+    "hubot-maps": "0.0.3",
+    "hubot-redis-brain": "0.0.4",
+    "hubot-rules": "^0.1.2",
+    "hubot-scripts": "^2.17.2",
+    "hubot-search": "^0.1.2",
+    "hubot-shipit": "^0.2.1"
+  },
+  "devDependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "0.10.x"
+  }
+}
